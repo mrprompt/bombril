@@ -1,0 +1,25 @@
+{
+    "name": "mrprompt/bombril",
+    "description": "classes velhas jogadas",
+    "type": "library",
+    "license": "GPL-3.0+",
+    "keywords": ["libs", "util"],
+    "authors": [
+        {
+            "name": "Thiago Paes",
+            "email": "mrprompt@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "support": {
+        "email": "mrprompt@gmail.com",
+        "source": "https://github.com/mrprompt/bombril",
+    },
+    "autoload": {
+	"classmap": ["src/"]
+    },
+    "require": {
+        "php": ">=5.2"
+    },
+    "minimum-stability": "dev"
+}
