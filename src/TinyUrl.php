@@ -18,7 +18,7 @@
 /**
  * @see Cliente_Http
  */
-require_once 'Curl.class.php';
+require_once 'Curl.php';
 
 /**
  * @category   Classes

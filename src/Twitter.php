@@ -18,17 +18,17 @@
 /**
  * @see Curl
  */
-require_once 'Curl.class.php';
+require_once 'Curl.php';
 
 /**
  * @see String
  */
-require_once 'String.class.php';
+require_once 'String.php';
 
 /**
  * @see Data
  */
-require_once 'Data.class.php';
+require_once 'Data.php';
 
 /**
  * @category   Classes

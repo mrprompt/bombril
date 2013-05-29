@@ -18,7 +18,7 @@
 /**
  * @see Cache
  */
-require_once dirname(__FILE__) . '/Cache.class.php';
+require_once dirname(__FILE__) . '/Cache.php';
 
 /**
  * @category   Classes

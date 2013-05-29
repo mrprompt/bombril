@@ -17,7 +17,7 @@
 /**
  * @see Curl
  */
-require_once 'Curl.class.php';
+require_once 'Curl.php';
 /**
  * @category   Classes
  * @subpackage Picasa

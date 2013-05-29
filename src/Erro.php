@@ -20,7 +20,7 @@
 /**
  * @see Log
  */
-require_once dirname(__FILE__) . '/Log.class.php';
+require_once dirname(__FILE__) . '/Log.php';
 
 /**
  * @see funcoes.php

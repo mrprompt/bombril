@@ -18,7 +18,7 @@
 /**
  * @see Criptografia
  */
-require_once dirname(__FILE__) . '/Criptografia.class.php';
+require_once dirname(__FILE__) . '/Criptografia.php';
 
 /**
  * @category   Classes

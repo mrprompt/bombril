@@ -19,7 +19,7 @@
 /**
  * @see     String
  */
-require_once dirname(__FILE__) . '/String.class.php';
+require_once dirname(__FILE__) . '/String.php';
 
 /**
  * @category   Classes
