@@ -13,10 +13,10 @@
     ],
     "support": {
         "email": "mrprompt@gmail.com",
-        "source": "https://github.com/mrprompt/bombril",
+        "source": "https://github.com/mrprompt/bombril"
     },
     "autoload": {
-	"classmap": ["src/"]
+	    "classmap": ["src/"]
     },
     "require": {
         "php": ">=5.2"
